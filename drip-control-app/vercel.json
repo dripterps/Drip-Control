@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/overlay", "destination": "/overlay.html" }
+  ]
+}
